@@ -1,0 +1,36 @@
+add play list
+maej minimize player
+maej show player
+maej play music
+maej play video
+maej play movie
+maej pause music
+maej pause video
+maej pause movie
+ok maej resume
+maej stop playing
+maej play previous
+maej play next
+maej mute volume
+maej unmute volume
+maej play full screen
+maej exit full screen 
+maej close player
+what is your name
+who created you 
+maej what's the date
+maej what's the time
+show about
+minimize about
+restore about
+ok close about
+maej close about
+maej read about
+who is the developer
+who developed mae player
+give me his contact
+give me the Orange number
+the orange number
+give me the Africell number
+the africell number
+give me the email address
